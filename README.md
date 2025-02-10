@@ -1,4 +1,6 @@
-# artificial_neural_network-pank-
-#project ANN
+# Artificial Neural Network (Customer Churn Prediction)
 
-# The project is a bank data and I need to know if the client will continue or not.
+# •	Designed and implemented an ANN model to analyze 10,000 customer data points for predicting bank customer churn.
+# •	Conducted data pre-processing, including feature scaling and encoding, to prepare for training.
+# •	Trained the ANN model and evaluated its performance using metrics such as accuracy and precision.
+
